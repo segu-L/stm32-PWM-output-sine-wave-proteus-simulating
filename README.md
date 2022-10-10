@@ -1,4 +1,4 @@
-# stm32-PWM-output-sine-wave-proteus-simulating
+# stm32-sine-wave-outputing-by-PWM-(proteus-simulating)
 Proteus仿真 stm32f401VE实现PWM输出正弦波、方波、三角波，且频率在1-100可调
 
  题目
