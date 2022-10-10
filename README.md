@@ -7,7 +7,7 @@
 
  成品运行图
 
-![运行图](https://user-images.githubusercontent.com/61747149/194799849-2a9a4d79-831a-49f2-9e68-f060212f1221.png)
+![image](https://user-images.githubusercontent.com/61747149/194800233-928ad00a-2e50-4986-8c46-d2ba6ed069d3.png)
 
 
 仿真中
